@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate",
+  "description": "this is boilerplate for bootstrap 4",
+  "main": "index.html",
+  "authors": [
+    "Aaqib Mehran"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "boilerplate"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "4.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}

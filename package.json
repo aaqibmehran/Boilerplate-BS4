@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "this is initial boilerplate",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Aaqib Mehran",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-inject-partials": "^1.0.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
